@@ -1,0 +1,10 @@
+asyncio
+requests
+telethon
+urllib3
+aiocron
+psutil
+cloudscraper
+bs4
+js2py
+seleniumbase
